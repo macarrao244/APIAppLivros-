@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YLHtLDYIiMTwYVpKHhZeVyxuHmDHdG1nItEIaNwTSmQ=",
+  "Source": "APIAppLivros",
+  "BasePath": "_content/APIAppLivros",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
